@@ -4,7 +4,7 @@ var JMap = JSON.parse(Map); //This is for reaching out map objects.
 
 let doc = document.getElementsByTagName('iframe')[0].contentDocument;
 
-var roomName = "Advanced Penalty Bot";
+var roomName = "⚽🎯[24★7] RZUTY KARNE BOT | 🎯⚽";
 var playerName = "";
 var noPlayer = true;
 var public = true;
